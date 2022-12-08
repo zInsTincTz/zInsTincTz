@@ -14,7 +14,7 @@
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
-<!--<img src="https://imgur.com/gallery/pfSqD9r" align="right">-->
+<img src="Suisei-Gif.gif" align="right">
   </div>
 <li>
  <b>Name:</b> Tinnapat Rattanawilaikul</li>
