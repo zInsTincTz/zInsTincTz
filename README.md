@@ -15,7 +15,6 @@
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
 <!--<img src="https://imgur.com/gallery/pfSqD9r" align="right">-->
-    <blockquote class="imgur-embed-pub" lang="en" data-id="pfSqD9r"  ><a href="//imgur.com/pfSqD9r">Hoshimachi Suisei Icon Gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   </div>
 <li>
  <b>Name:</b> Tinnapat Rattanawilaikul</li>
