@@ -14,7 +14,7 @@
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/598f1160c20923b4bbff390f356c72db/ad270a3f966f1fca-38/s500x750/3b6b6e67d254d496d8c793a96f1ed2e9681eaf47.gif" align="right">
+<img src="https://imgur.com/gallery/pfSqD9r" align="right">
   </div>
 <li>
  <b>Name:</b> Tinnapat Rattanawilaikul</li>
